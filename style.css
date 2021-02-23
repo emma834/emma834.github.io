@@ -1,0 +1,74 @@
+
+h1 {font-family: broadway;
+	 font-size: 3em;
+	 font-weight: bold;
+	 text-decoration: underline;
+	 color: white;
+	 text-align: center;
+	}
+
+h2  {font-family: serif;
+	  font-size: 200%;
+	  color: white;
+	  text-align: center; 
+	}
+
+h3  {color: white;
+      font-size: 130%;
+	  text-align: justify;
+	  margin-left: 15%;
+	  margin-right: 15%;
+	}
+	
+h4  {color: white;
+      font-size: 170%;
+	  text-align: justify;
+	  margin-left: 15%;
+	  margin-right: 15%;
+	}
+
+h5  {color: white;                           
+	  text-align: left;
+	  font-size: 100%;
+	}
+	
+h6  {color: white;
+	  text-align: left;
+	  font-size: 100%;
+	}
+	
+
+
+	
+ol {color: white;
+     margin-left:29%;
+   }
+
+
+
+h2:hover { font-style: serif;
+		   text-decoration: underline;
+		 }
+		 
+
+h4:hover { font-style: serif;
+		   text-decoration: underline;
+		 }
+
+
+
+.aligncenter {text-align: center;
+			  }
+
+.one {color:white;
+   text-align: center;
+  }
+  
+.two {color:white;
+   text-align: right;
+  }
+
+
+
+
+	
